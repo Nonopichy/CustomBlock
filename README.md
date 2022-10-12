@@ -59,3 +59,4 @@ The current version of this plugin contains a serious error, accumulated entitie
 - In minecraft input command `/customblock reload`
 - Copy `CustomBlocks/item_frame.json` to `assets/minecraf/model/item/item_frame.json` of your texture
 - Done
+
