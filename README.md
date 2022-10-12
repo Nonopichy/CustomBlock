@@ -1,5 +1,6 @@
-[![download](https://img.shields.io/badge/download-java-green)](https://github.com/Nonopichy/CustomBlock/releases/)
-[![download-models](https://img.shields.io/badge/download-models-green)](https://github.com/Nonopichy/CustomBlock/raw/main/models.rar)
+[![download](https://img.shields.io/badge/download-jar-green)](https://github.com/Nonopichy/CustomBlock/releases/)
+[![download-models](https://img.shields.io/badge/model-orange)](https://github.com/Nonopichy/CustomBlock/raw/main/models.rar)
+[![resource-pack-download](https://img.shields.io/badge/resource%20pack-blue)](https://github.com/Nonopichy/CustomBlock/raw/main/resource%20pack.zip)
 
 ![customblock](https://user-images.githubusercontent.com/68911691/195412546-feadd07b-39e2-41a1-a9d7-b5e14bec3533.png)
 # CustomBlock
