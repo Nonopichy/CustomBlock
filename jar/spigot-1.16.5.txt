@@ -1,0 +1,1 @@
+https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar
