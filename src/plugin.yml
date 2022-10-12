@@ -1,0 +1,7 @@
+name: CustomBlock
+version: 1.0
+main: com.nonopichy.customblock.Main
+api-version: 1.13
+commands:
+  customblock:
+    permission: 'customblock'
