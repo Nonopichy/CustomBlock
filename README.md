@@ -17,28 +17,28 @@ The current version of this plugin contains a serious error, accumulated entitie
 - Paste in `config.json` (Default):
 ```json
 {
-	"drop": {
-		"material": "STONE"
-		"model": 0,
-		"amount": 1
-	}
+ "drop": {
+  "material": "STONE"
+  "model": 0,
+  "amount": 1
+ }
 }
 ```
 - Example for reference other item custom to drop with id:
 ```json
 {
-	"drop": {
-		"model": 1,
-		"amount": 1
-	}
+ "drop": {
+  "model": 1,
+  "amount": 1
+ }
 }
 ```
 - Example for reference other item custom to drop with material:
 ```json
 {
-	"drop": {
-		"material": "model-item_name_file",
-		"amount": 1
-	}
+ "drop": {
+  "material": "model-<item_name_file_without_extesion>",
+  "amount": 1
+ }
 }
 ```
