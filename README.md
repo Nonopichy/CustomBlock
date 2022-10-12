@@ -66,4 +66,3 @@ The current version of this plugin contains a serious error, accumulated entitie
 -   Copy `CustomBlocks/item_frame.json` to `assets/minecraf/model/item/item_frame.json` of your texture
 -   Warn, you need convert your models to json minecraft and place in your texture (maybe on future this be possible auto)
 -   Done
-
