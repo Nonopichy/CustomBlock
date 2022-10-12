@@ -50,3 +50,8 @@ The current version of this plugin contains a serious error, accumulated entitie
  }
 }
 ```
+## Registering item
+- Create a new dir contains `item` in `CustomBlock/models`
+- Example: `CustomBlocks/models/rainbow_item`
+- This dir place your `.bbmodel` list
+- Example: `CustomBlocks/models/rainbow_item/rainbow.bbmodel`
