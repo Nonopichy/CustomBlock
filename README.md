@@ -4,3 +4,5 @@ Inspiration [Cloud Wolf DataPack Custom Block](https://www.youtube.com/watch?v=E
 ## The problem
 The current version of this plugin contains a serious error, accumulated entities, already in a more efficient solution so that it can run on any minecraft server, but however ignoring this problem, it works efficiently.
 ## Registering block
+- Create a new dir without contains `item` in `CustomBlock/models`
+- Example: `CustomBlocks/models/rainbow_block`
