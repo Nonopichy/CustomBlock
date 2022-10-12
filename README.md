@@ -55,3 +55,7 @@ The current version of this plugin contains a serious error, accumulated entitie
 - Example: `CustomBlocks/models/rainbow_item`
 - This dir place your `.bbmodel` list
 - Example: `CustomBlocks/models/rainbow_item/rainbow.bbmodel`
+## Resource pack
+- In minecraft input command `/customblock reload`
+- Copy `CustomBlocks/item_frame.json` to `assets/minecraf/model/item/item_frame.json` of your texture
+- Done
