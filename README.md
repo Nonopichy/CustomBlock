@@ -6,3 +6,8 @@ The current version of this plugin contains a serious error, accumulated entitie
 ## Registering block
 - Create a new dir without contains `item` in `CustomBlock/models`
 - Example: `CustomBlocks/models/rainbow_block`
+- This dir place your `.bbmodel` of `block`
+- Example: `CustomBlocks/models/rainbow_block/rainbow_block.bbmodel`
+## Registering item block
+- Place in `CustomBlocks/models/rainbow_block` a `.bbmodel` with the name of last `.bbmodel` pasting `_item` before point extesion.
+- Example: `CustomBlocks/models/rainbow_block/rainbow_block_item.bbmodel`
