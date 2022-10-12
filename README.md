@@ -14,11 +14,10 @@ The current version of this plugin contains a serious error, accumulated entitie
 ## Block configuration
 - In `CustomBlocks/models/rainbow_block` create a new file call `config.json`
 - Example: `CustomBlocks/models/rainbow_block/config.json`
-- Paste in `config.json` (Default):
+- Paste in `config.json` (Default, drop item block registred):
 ```json
 {
  "drop": {
-  "material": "STONE"
   "model": 0,
   "amount": 1
  }
@@ -38,6 +37,15 @@ The current version of this plugin contains a serious error, accumulated entitie
 {
  "drop": {
   "material": "model-<item_name_file_without_extesion>",
+  "amount": 1
+ }
+}
+```
+- Example for reference other any item:
+```json
+{
+ "drop": {
+  "material": "STONE",
   "amount": 1
  }
 }
