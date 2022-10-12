@@ -11,3 +11,34 @@ The current version of this plugin contains a serious error, accumulated entitie
 ## Registering item block
 - Place in `CustomBlocks/models/rainbow_block` a `.bbmodel` with the name of last `.bbmodel` pasting `_item` before point extesion.
 - Example: `CustomBlocks/models/rainbow_block/rainbow_block_item.bbmodel`
+## Block configuration
+- In `CustomBlocks/models/rainbow_block` create a new file call `config.json`
+- Example: `CustomBlocks/models/rainbow_block/config.json`
+- Paste in `config.json` (Default):
+```json
+{
+	"drop": {
+		"material": "STONE"
+		"model": 0,
+		"amount": 1
+	}
+}
+```
+- Example for reference other item custom to drop with id:
+```json
+{
+	"drop": {
+		"model": 1,
+		"amount": 1
+	}
+}
+```
+- Example for reference other item custom to drop with material:
+```json
+{
+	"drop": {
+		"material": "model-item_name_file",
+		"amount": 1
+	}
+}
+```
